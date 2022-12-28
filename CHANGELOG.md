@@ -1,5 +1,17 @@
 # Changelog
 
+## What's Changed
+* build(deps): bump actions/setup-python from 3 to 4 by @dependabot in https://github.com/zachowj/hass-node-red/pull/154
+* build(deps): bump actions/stale from 3 to 6 by @dependabot in https://github.com/zachowj/hass-node-red/pull/153
+* build(deps): bump GoogleCloudPlatform/release-please-action from 2 to 3 by @dependabot in https://github.com/zachowj/hass-node-red/pull/152
+* build(deps): bump pre-commit/action from 2.0.3 to 3.0.0 by @dependabot in https://github.com/zachowj/hass-node-red/pull/151
+* build(deps): bump actions/stale from 6 to 7 by @dependabot in https://github.com/zachowj/hass-node-red/pull/159
+
+## New Contributors
+* @dependabot made their first contribution in https://github.com/zachowj/hass-node-red/pull/154
+
+**Full Changelog**: https://github.com/zachowj/hass-node-red/compare/v1.1.2...v1.1.3
+
 ### [1.1.2](https://www.github.com/zachowj/hass-node-red/compare/v1.1.1...v1.1.2) (2022-09-30)
 
 
